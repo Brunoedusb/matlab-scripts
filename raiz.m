@@ -1,5 +1,4 @@
-%Escreva uma função que calcule a raiz quadrada do parâmetro de entrada com um erro máximo
-%de 0,001. 
+%Função que calcula a raiz quadrada do parâmetro de entrada com um erro máximo de 0,001. 
 
 disp ('Função que calcula a raiz quadrada');
 
